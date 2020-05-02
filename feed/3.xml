@@ -1,0 +1,371 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+	
+
+	<title>2049BBS | 技术</title>
+
+	<link rel="self" type="application/atom+xml" href="https://2049bbs.github.io/feed/3.xml"/>
+	<link rel="hub" href="https://pubsubhubbub.appspot.com"/>
+
+	<updated>2020-05-03T03:18:34+08:00</updated>
+
+	<id>https://2049bbs.github.io/feed/3.xml</id>
+
+	<author>
+		<name>2049BBS</name>
+	</author>
+	
+	
+    
+	<entry>
+		<title>在区块链上的视频网站：BitTubers</title>
+		<id>https://2049bbs.github.io/t/1393</id>
+		<link type="text/html" href="https://2049bbs.github.io/t/1393" />
+		<link rel="alternate" type="text/html" href="https://cdn.statically.io/gh/2049bbs/2049bbs.github.io/gh-pages/t/1393.html?env=dev" />
+		<published>2019-08-21T10:29:00+08:00</published>
+		<updated>2020-04-29T15:15:00+08:00</updated>
+		<content type="text/html">
+		    &lt;p&gt;官网 https://bittubers.com 博文 https://u.nu/voqm&lt;/p&gt;
+
+		</content>
+		<category term="技术" />
+    </entry>
+    
+	<entry>
+		<title>墙是一台强大的邪恶电脑么？</title>
+		<id>https://2049bbs.github.io/t/4430</id>
+		<link type="text/html" href="https://2049bbs.github.io/t/4430" />
+		<link rel="alternate" type="text/html" href="https://cdn.statically.io/gh/2049bbs/2049bbs.github.io/gh-pages/t/4430.html?env=dev" />
+		<published>2020-04-19T15:15:00+08:00</published>
+		<updated>2020-04-28T01:30:00+08:00</updated>
+		<content type="text/html">
+		    &lt;p&gt;墙不会死机么 ༼ ಠ ▃ ಠೃ ༽&lt;/p&gt;
+
+		</content>
+		<category term="技术" />
+    </entry>
+    
+	<entry>
+		<title>哈勃太空望远镜30周岁纪念 - 给自己的生日礼物</title>
+		<id>https://2049bbs.github.io/t/4648</id>
+		<link type="text/html" href="https://2049bbs.github.io/t/4648" />
+		<link rel="alternate" type="text/html" href="https://cdn.statically.io/gh/2049bbs/2049bbs.github.io/gh-pages/t/4648.html?env=dev" />
+		<published>2020-04-27T12:00:00+08:00</published>
+		<updated>2020-04-27T20:45:00+08:00</updated>
+		<content type="text/html">
+		    &lt;p&gt;&lt;a href=&quot;https://www.bbc.com/zhongwen/simp/science-52432683&quot;&gt;https://www.bbc.com/zhongwen/simp/science-52432683&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;哈勃天文万望远镜（Hubble）30年前的4月25日诞生。&lt;/p&gt;
+
+&lt;p&gt;作为天文望远镜家族的老前辈，哈勃的生日可以算重要日子。它给自己的...
+		</content>
+		<category term="技术" />
+    </entry>
+    
+	<entry>
+		<title>在华为手机上使用语音通信软件，是否会被监听 ༼ ಠ ▃ ಠೃ ༽</title>
+		<id>https://2049bbs.github.io/t/4465</id>
+		<link type="text/html" href="https://2049bbs.github.io/t/4465" />
+		<link rel="alternate" type="text/html" href="https://cdn.statically.io/gh/2049bbs/2049bbs.github.io/gh-pages/t/4465.html?env=dev" />
+		<published>2020-04-20T19:00:00+08:00</published>
+		<updated>2020-04-22T16:15:00+08:00</updated>
+		<content type="text/html">
+		    &lt;p&gt;有技术专家对这个问题进行深入分析么？&lt;/p&gt;
+
+		</content>
+		<category term="技术" />
+    </entry>
+    
+	<entry>
+		<title>Tor配置项讲解：如何排除特定节点</title>
+		<id>https://2049bbs.github.io/t/4414</id>
+		<link type="text/html" href="https://2049bbs.github.io/t/4414" />
+		<link rel="alternate" type="text/html" href="https://cdn.statically.io/gh/2049bbs/2049bbs.github.io/gh-pages/t/4414.html?env=dev" />
+		<published>2020-04-18T12:00:00+08:00</published>
+		<updated>2020-04-19T12:00:00+08:00</updated>
+		<content type="text/html">
+		    &lt;p&gt;EntryNodes // 指定入口节点，Guand节点&lt;/p&gt;
+
+&lt;p&gt;MiddleNodes // 指定中间节点&lt;/p&gt;
+
+&lt;p&gt;ExitNodes // 指定离开节点&lt;/p&gt;
+
+&lt;p&gt;ExcludeNodes // 排除节点，用来排除蜜罐节点，&lt;del&gt;我相信不存在这种节点&lt;/del&gt;&lt;/p&gt;
+
+&lt;p&gt;ExcludeExitNodes //排除出口节点&lt;/p&gt;
+
+&lt;p&gt;配置方法：...
+		</content>
+		<category term="技术" />
+    </entry>
+    
+	<entry>
+		<title>用支付宝或者微信付款的VPN安全么？</title>
+		<id>https://2049bbs.github.io/t/4345</id>
+		<link type="text/html" href="https://2049bbs.github.io/t/4345" />
+		<link rel="alternate" type="text/html" href="https://cdn.statically.io/gh/2049bbs/2049bbs.github.io/gh-pages/t/4345.html?env=dev" />
+		<published>2020-04-15T15:15:00+08:00</published>
+		<updated>2020-04-18T13:30:00+08:00</updated>
+		<content type="text/html">
+		    &lt;p&gt;我的支付宝和微信都是实名的，怎么办 ༼ ಠ ▃ ಠೃ ༽&lt;/p&gt;
+
+		</content>
+		<category term="技术" />
+    </entry>
+    
+	<entry>
+		<title>【2049首发】ESNI细节讲解</title>
+		<id>https://2049bbs.github.io/t/4109</id>
+		<link type="text/html" href="https://2049bbs.github.io/t/4109" />
+		<link rel="alternate" type="text/html" href="https://cdn.statically.io/gh/2049bbs/2049bbs.github.io/gh-pages/t/4109.html?env=dev" />
+		<published>2020-04-06T17:00:00+08:00</published>
+		<updated>2020-04-09T18:30:00+08:00</updated>
+		<content type="text/html">
+		    &lt;p&gt;先啰嗦一句，估计这是全网唯一一篇&lt;strong&gt;中文&lt;/strong&gt;讲解ESNI的文章。其他语言有没有，我就不知道了。&lt;/p&gt;
+
+&lt;p&gt;先讲流程和细节：&lt;/p&gt;
+
+&lt;p&gt;Q1. SNI被加密了，用的是什么加密算法，加密密钥从哪里来？&lt;/p&gt;
+
+&lt;p&gt;A1.使用的加密算法是AEAD，具体是哪种AEAD，是协商出来的。密钥是通过PSK协商出来的。&lt;/p&gt;
+
+&lt;p&gt;Q2.如果是通过PSK协...
+		</content>
+		<category term="技术" />
+    </entry>
+    
+	<entry>
+		<title>Lisa大神能不能帮忙解释下这两个问题？</title>
+		<id>https://2049bbs.github.io/t/3857</id>
+		<link type="text/html" href="https://2049bbs.github.io/t/3857" />
+		<link rel="alternate" type="text/html" href="https://cdn.statically.io/gh/2049bbs/2049bbs.github.io/gh-pages/t/3857.html?env=dev" />
+		<published>2020-03-30T14:45:00+08:00</published>
+		<updated>2020-04-08T21:30:00+08:00</updated>
+		<content type="text/html">
+		    &lt;p&gt;https://pincong.rocks/article/17023&lt;/p&gt;
+
+&lt;p&gt;这个是什么原理？&lt;/p&gt;
+
+&lt;p&gt;https://pincong.rocks/question/22222&lt;/p&gt;
+
+&lt;p&gt;这个可行么？&lt;/p&gt;
+
+		</content>
+		<category term="技术" />
+    </entry>
+    
+	<entry>
+		<title>Win10下使用Tor创建.onion域名网站的可行性分析笔记</title>
+		<id>https://2049bbs.github.io/t/4087</id>
+		<link type="text/html" href="https://2049bbs.github.io/t/4087" />
+		<link rel="alternate" type="text/html" href="https://cdn.statically.io/gh/2049bbs/2049bbs.github.io/gh-pages/t/4087.html?env=dev" />
+		<published>2020-04-05T16:00:00+08:00</published>
+		<updated>2020-04-07T00:00:00+08:00</updated>
+		<content type="text/html">
+		    &lt;p&gt;我在发了&lt;/p&gt;
+
+&lt;p&gt;https://2049bbs.xyz/t/4017&lt;/p&gt;
+
+&lt;p&gt;这个帖子后，打算自己在电脑上搭建一个onion网站。&lt;/p&gt;
+
+&lt;p&gt;经过Google，发现都是在Linux下的。我不想重装系统，就测试下win10下的可能性。&lt;/p&gt;
+
+&lt;p&gt;第一步，我按照Linux的方法，修改torrc文件，重启tor，报错！&lt;/p&gt;
+
+&lt;p&gt;一头黑线。。。&lt;/p&gt;
+
+...
+		</content>
+		<category term="技术" />
+    </entry>
+    
+	<entry>
+		<title>技术白痴“碰巧”推动了某站一个不起眼的改动</title>
+		<id>https://2049bbs.github.io/t/3961</id>
+		<link type="text/html" href="https://2049bbs.github.io/t/3961" />
+		<link rel="alternate" type="text/html" href="https://cdn.statically.io/gh/2049bbs/2049bbs.github.io/gh-pages/t/3961.html?env=dev" />
+		<published>2020-04-01T03:45:00+08:00</published>
+		<updated>2020-04-07T00:00:00+08:00</updated>
+		<content type="text/html">
+		    &lt;p&gt;&lt;strong&gt;本贴只欢迎讨论技术相关，谢绝以评论区风向为由转水，授权管理员将不相关回复折叠。&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;在某站刚建立的头几个月，大家对于上网安全有一条基本共识：&lt;strong&gt;绝对不要裸奔，一律用Tor访问某站&lt;/strong&gt;。但是这条上网安全的社区共识在某位自称“技术白痴”的用户出现之后，逐渐地被彻底改变了。&lt;/p&gt;
+
+&lt;p&gt;我对这位“技术白痴”最初的印象...
+		</content>
+		<category term="技术" />
+    </entry>
+    
+	<entry>
+		<title>火狐DoH和ESNI代碼講解</title>
+		<id>https://2049bbs.github.io/t/3750</id>
+		<link type="text/html" href="https://2049bbs.github.io/t/3750" />
+		<link rel="alternate" type="text/html" href="https://cdn.statically.io/gh/2049bbs/2049bbs.github.io/gh-pages/t/3750.html?env=dev" />
+		<published>2020-03-27T22:00:00+08:00</published>
+		<updated>2020-04-07T00:00:00+08:00</updated>
+		<content type="text/html">
+		    &lt;h3 id=&quot;吐槽1-我不明白esj爲什麽要和真白萌發生衝突&quot;&gt;&lt;a href=&quot;#%E5%90%90%E6%A7%BD1-%E6%88%91%E4%B8%8D%E6%98%8E%E7%99%BDesj%E7%88%B2%E4%BB%80%E9%BA%BD%E8%A6%81%E5%92%8C%E7%9C%9F%E7%99%BD%E8%90%8C%E7%99%BC%E7%94%9F%E8%A...
+		</content>
+		<category term="技术" />
+    </entry>
+    
+	<entry>
+		<title>怎样看待所谓「不记录IP、不搜集用户信息」这类声明 (纯技术讨论)</title>
+		<id>https://2049bbs.github.io/t/3973</id>
+		<link type="text/html" href="https://2049bbs.github.io/t/3973" />
+		<link rel="alternate" type="text/html" href="https://cdn.statically.io/gh/2049bbs/2049bbs.github.io/gh-pages/t/3973.html?env=dev" />
+		<published>2020-04-01T11:00:00+08:00</published>
+		<updated>2020-04-03T00:00:00+08:00</updated>
+		<content type="text/html">
+		    &lt;p&gt;原帖见树洞 https://2049bbs.xyz/t/3699 本帖是纯技术部分, 谢绝碰瓷转水&lt;/p&gt;
+
+&lt;p&gt;首發 &lt;a href=&quot;https://matters.news/@kp2020/%E6%80%8E%E6%A0%B7%E7%9C%8B%E5%BE%85%E6%89%80%E8%B0%93-%E4%B8%8D%E8%AE%B0%E5%BD%95ip-%E4%B8%8D%...
+		</content>
+		<category term="技术" />
+    </entry>
+    
+	<entry>
+		<title>新冠检测的方法和对比</title>
+		<id>https://2049bbs.github.io/t/4001</id>
+		<link type="text/html" href="https://2049bbs.github.io/t/4001" />
+		<link rel="alternate" type="text/html" href="https://cdn.statically.io/gh/2049bbs/2049bbs.github.io/gh-pages/t/4001.html?env=dev" />
+		<published>2020-04-02T12:15:00+08:00</published>
+		<updated>2020-04-02T12:15:00+08:00</updated>
+		<content type="text/html">
+		    &lt;p&gt;&lt;img src=&quot;https://i.imgur.com/BEmDTmC.jpg&quot; alt=&quot;Imgur&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;来源： 新冠检测“大跃进”：从4天缩短到2分钟，靠谱吗？，硅星人， 杜晨&lt;/p&gt;
+
+&lt;p&gt;https://mp.weixin.qq.com/s/A8vzW_Tu5nY8bMAtxJYdgA&lt;/p&gt;
+
+		</content>
+		<category term="技术" />
+    </entry>
+    
+	<entry>
+		<title>流量跟踪码是什么，有什么危害，是否等同于钓鱼</title>
+		<id>https://2049bbs.github.io/t/3865</id>
+		<link type="text/html" href="https://2049bbs.github.io/t/3865" />
+		<link rel="alternate" type="text/html" href="https://cdn.statically.io/gh/2049bbs/2049bbs.github.io/gh-pages/t/3865.html?env=dev" />
+		<published>2020-03-30T20:45:00+08:00</published>
+		<updated>2020-04-01T03:45:00+08:00</updated>
+		<content type="text/html">
+		    &lt;p&gt;根据上一篇文章 https://2049bbs.xyz/t/3699 的回复内容的反馈，写本文。&lt;/p&gt;
+
+&lt;p&gt;小二和某傻逼站长对流量跟踪码是什么根本就是一知半解，靠道听途说和脑补，把流量跟踪码说成是试图获取网站访问者身份的钓鱼行为，更是发展出一套所谓「BE4是跟踪狂」「没有流量跟踪码的网站就是安全的」等等歪理邪说。&lt;/p&gt;
+
+&lt;h3 id=&quot;这两个半灌水看到流量跟踪码这个名词中有跟...
+		</content>
+		<category term="技术" />
+    </entry>
+    
+	<entry>
+		<title>从B站的av到BV说起~</title>
+		<id>https://2049bbs.github.io/t/3868</id>
+		<link type="text/html" href="https://2049bbs.github.io/t/3868" />
+		<link rel="alternate" type="text/html" href="https://cdn.statically.io/gh/2049bbs/2049bbs.github.io/gh-pages/t/3868.html?env=dev" />
+		<published>2020-03-30T22:15:00+08:00</published>
+		<updated>2020-03-31T10:45:00+08:00</updated>
+		<content type="text/html">
+		    &lt;p&gt;在知乎上，看到大神发了如何av转BV的算法。这里大部分都看懂了，唯有base58不理解。&lt;/p&gt;
+
+&lt;p&gt;我通过Google搜索，发现了一个开源项目bitcoin ‘’’ https://github.com/bitcoin/bitcoin/blob/master/src/base58.cpp ‘’’&lt;/p&gt;
+
+&lt;p&gt;看不懂，明天看看~&lt;/p&gt;
+
+&lt;p&gt;后来看到一个很熟悉的单词 Mer...
+		</content>
+		<category term="技术" />
+    </entry>
+    
+	<entry>
+		<title>2020年3月26日大陸GitHub事件分析</title>
+		<id>https://2049bbs.github.io/t/3772</id>
+		<link type="text/html" href="https://2049bbs.github.io/t/3772" />
+		<link rel="alternate" type="text/html" href="https://cdn.statically.io/gh/2049bbs/2049bbs.github.io/gh-pages/t/3772.html?env=dev" />
+		<published>2020-03-28T13:30:00+08:00</published>
+		<updated>2020-03-29T16:15:00+08:00</updated>
+		<content type="text/html">
+		    &lt;p&gt;墻内鏈接，慎點 https://www.secrss.com/articles/13373&lt;/p&gt;
+
+&lt;p&gt;習近平不知道腦子出了什麽問題，為GFW辯稱說這個叫維護&lt;strong&gt;國家主權&lt;/strong&gt;。&lt;/p&gt;
+
+&lt;p&gt;還發明了一個專有詞匯，&lt;strong&gt;國家網絡主權&lt;/strong&gt;。GFW維護了國家的網絡主權。&lt;/p&gt;
+
+&lt;p&gt;從那以後，邪惡國家&lt;strong&gt;不約而同&lt;/s...
+		</content>
+		<category term="技术" />
+    </entry>
+    
+	<entry>
+		<title>怎样看待所谓「不记录IP、不搜集用户信息」这类声明</title>
+		<id>https://2049bbs.github.io/t/3699</id>
+		<link type="text/html" href="https://2049bbs.github.io/t/3699" />
+		<link rel="alternate" type="text/html" href="https://cdn.statically.io/gh/2049bbs/2049bbs.github.io/gh-pages/t/3699.html?env=dev" />
+		<published>2020-03-26T00:00:00+08:00</published>
+		<updated>2020-03-29T10:45:00+08:00</updated>
+		<content type="text/html">
+		    &lt;p&gt;首發 &lt;a href=&quot;https://matters.news/@kp2020/%E6%80%8E%E6%A0%B7%E7%9C%8B%E5%BE%85%E6%89%80%E8%B0%93-%E4%B8%8D%E8%AE%B0%E5%BD%95ip-%E4%B8%8D%E6%90%9C%E9%9B%86%E7%94%A8%E6%88%B7%E4%BF%A1%E6%81%AF-%E8%...
+		</content>
+		<category term="技术" />
+    </entry>
+    
+	<entry>
+		<title>如何讓chrome支持ESNI</title>
+		<id>https://2049bbs.github.io/t/3775</id>
+		<link type="text/html" href="https://2049bbs.github.io/t/3775" />
+		<link rel="alternate" type="text/html" href="https://cdn.statically.io/gh/2049bbs/2049bbs.github.io/gh-pages/t/3775.html?env=dev" />
+		<published>2020-03-28T15:45:00+08:00</published>
+		<updated>2020-03-28T16:45:00+08:00</updated>
+		<content type="text/html">
+		    &lt;p&gt;同學們先&lt;strong&gt;自己去看下火狐的源碼&lt;/strong&gt;，理解下火狐的ESNI代碼實現！&lt;/p&gt;
+
+&lt;p&gt;我昨天剛下好，&lt;strong&gt;300多MB的壓縮包&lt;/strong&gt;！你們慢慢解壓縮吧。。。&lt;/p&gt;
+
+&lt;p&gt;代碼太深了，估計很多人不知道ESNI的代碼實現在哪裏。我解釋下，代碼在&lt;/p&gt;
+
+&lt;p&gt;security/nss/lib/ssl/tls13esni.c&lt;/p&gt;
+
+&lt;...
+		</content>
+		<category term="技术" />
+    </entry>
+    
+	<entry>
+		<title>v2ray在wss協議下的代碼講解</title>
+		<id>https://2049bbs.github.io/t/3773</id>
+		<link type="text/html" href="https://2049bbs.github.io/t/3773" />
+		<link rel="alternate" type="text/html" href="https://cdn.statically.io/gh/2049bbs/2049bbs.github.io/gh-pages/t/3773.html?env=dev" />
+		<published>2020-03-28T14:45:00+08:00</published>
+		<updated>2020-03-28T16:45:00+08:00</updated>
+		<content type="text/html">
+		    &lt;p&gt;前面講的東西都放在品蔥了，大家自己去補課。&lt;/p&gt;
+
+&lt;p&gt;開始講wss的代碼了。&lt;/p&gt;
+
+&lt;p&gt;翻開課本v2ray-core\transport\internet\websocket\dialer.go&lt;/p&gt;
+
+&lt;p&gt;從 &lt;code class=&quot;highlighter-rouge&quot;&gt;func Dial&lt;/code&gt;這個函數讀起。因爲外層調用必然是 internet.Dial這樣...
+		</content>
+		<category term="技术" />
+    </entry>
+    
+	<entry>
+		<title>如何评价2020年3月26日大陆对GitHub.io的中间人攻击</title>
+		<id>https://2049bbs.github.io/t/3712</id>
+		<link type="text/html" href="https://2049bbs.github.io/t/3712" />
+		<link rel="alternate" type="text/html" href="https://cdn.statically.io/gh/2049bbs/2049bbs.github.io/gh-pages/t/3712.html?env=dev" />
+		<published>2020-03-26T16:15:00+08:00</published>
+		<updated>2020-03-27T09:30:00+08:00</updated>
+		<content type="text/html">
+		    &lt;p&gt;https://www.v2ex.com/t/656367&lt;/p&gt;
+
+&lt;p&gt;划重点，DNS返回的IP是真实地github.io地址， 但是这个IP返回的证书是假的&lt;/p&gt;
+
+		</content>
+		<category term="技术" />
+    </entry>
+    
+
+</feed>

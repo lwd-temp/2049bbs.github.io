@@ -1,0 +1,361 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+	
+
+	<title>2049BBS | 2049</title>
+
+	<link rel="self" type="application/atom+xml" href="https://2049bbs.github.io/feed/16.xml"/>
+	<link rel="hub" href="https://pubsubhubbub.appspot.com"/>
+
+	<updated>2020-05-03T03:18:34+08:00</updated>
+
+	<id>https://2049bbs.github.io/feed/16.xml</id>
+
+	<author>
+		<name>2049BBS</name>
+	</author>
+	
+	
+    
+	<entry>
+		<title>关于2047论坛的跟进讨论</title>
+		<id>https://2049bbs.github.io/t/4721</id>
+		<link type="text/html" href="https://2049bbs.github.io/t/4721" />
+		<link rel="alternate" type="text/html" href="https://cdn.statically.io/gh/2049bbs/2049bbs.github.io/gh-pages/t/4721.html?env=dev" />
+		<published>2020-04-29T20:45:00+08:00</published>
+		<updated>2020-05-03T01:00:00+08:00</updated>
+		<content type="text/html">
+		    &lt;p&gt;我之前曾经发过一个帖子，大意是现在的品葱如果因为各种原因废掉了，可以开一个品葱2。我的目标是有一个可以让大家讨论的地方，而且要按照旧品葱的标准去建设，这在计算机科学上是个难题，所以需要比较长时间的准备。&lt;/p&gt;
+
+&lt;p&gt;https://2049bbs.xyz/t/4159&lt;/p&gt;
+
+&lt;p&gt;后来发生了端点星志愿者被抓的事情。我想了一下，其实端点星的招牌也很棒，我搞的这个新网站不一定非要叫...
+		</content>
+		<category term="2049" />
+    </entry>
+    
+	<entry>
+		<title>发哨子的人被噤声，保存哨子的人成了“寻衅滋事”者</title>
+		<id>https://2049bbs.github.io/t/4637</id>
+		<link type="text/html" href="https://2049bbs.github.io/t/4637" />
+		<link rel="alternate" type="text/html" href="https://cdn.statically.io/gh/2049bbs/2049bbs.github.io/gh-pages/t/4637.html?env=dev" />
+		<published>2020-04-27T03:45:00+08:00</published>
+		<updated>2020-05-01T17:45:00+08:00</updated>
+		<content type="text/html">
+		    &lt;p&gt;在民意的压力下，吹哨人从造谣者变成了”烈士“&lt;/p&gt;
+
+&lt;p&gt;然而故事没有完——&lt;/p&gt;
+
+&lt;p&gt;发哨子的人，被噤声；&lt;/p&gt;
+
+&lt;p&gt;保存哨子的人，成了“寻衅滋事”者。&lt;/p&gt;
+
+&lt;p&gt;敢问，他们寻的什么衅，滋的什么事？&lt;/p&gt;
+
+&lt;p&gt;这个哨子里的秘密，就这么见不得人？&lt;/p&gt;
+
+&lt;p&gt;难道要每一次，都要十四亿人倾尽全力，发出山呼海啸，才能为一个公民正名？&lt;/p&gt;
+
+&lt;p&gt;这个公民...
+		</content>
+		<category term="2049" />
+    </entry>
+    
+	<entry>
+		<title>2049教给我们的事</title>
+		<id>https://2049bbs.github.io/t/4725</id>
+		<link type="text/html" href="https://2049bbs.github.io/t/4725" />
+		<link rel="alternate" type="text/html" href="https://cdn.statically.io/gh/2049bbs/2049bbs.github.io/gh-pages/t/4725.html?env=dev" />
+		<published>2020-04-29T22:45:00+08:00</published>
+		<updated>2020-05-01T09:15:00+08:00</updated>
+		<content type="text/html">
+		    &lt;p&gt;这几天的事，让我们中很多人都突然间成长了。&lt;/p&gt;
+
+&lt;p&gt;小二，2049的站长，突然消失了。我们突然发现，守护一个自由人的精神角落，有多么不易。&lt;/p&gt;
+
+&lt;p&gt;然而，即便就在当下，还有人不忘借机对隔壁踩几脚，甚至丧心病狂到“呼吁网警同志调查品葱站长”。&lt;/p&gt;
+
+&lt;p&gt;为了给自己解恨，网警都成了“同志”了。&lt;/p&gt;
+
+&lt;p&gt;中国人的社会，就是如此功利。一旦为了特定目的，可以六亲不认...
+		</content>
+		<category term="2049" />
+    </entry>
+    
+	<entry>
+		<title>写给匪特的2049食用指南</title>
+		<id>https://2049bbs.github.io/t/4677</id>
+		<link type="text/html" href="https://2049bbs.github.io/t/4677" />
+		<link rel="alternate" type="text/html" href="https://cdn.statically.io/gh/2049bbs/2049bbs.github.io/gh-pages/t/4677.html?env=dev" />
+		<published>2020-04-28T02:45:00+08:00</published>
+		<updated>2020-04-28T14:30:00+08:00</updated>
+		<content type="text/html">
+		    &lt;p&gt;（本文是对端点星被抄事件的有感而发。帮蔡同学有很多种方式，俺就写文章吧。）&lt;/p&gt;
+
+&lt;p&gt;既然人已经抓到了，匪特同志接下来有几件事情要做。&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;尽量挖出更多人。&lt;/li&gt;
+  &lt;li&gt;尽量找证据定罪。&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;毕竟匪特也是人（虽然本站网友对此意见并不一致），也要生活。抓人定罪才能邀功行赏，现在人已经抓了，罪也安了一条（寻衅滋事），不过...
+		</content>
+		<category term="2049" />
+    </entry>
+    
+	<entry>
+		<title>小二上線解釋前請全程使用 Tor 訪問</title>
+		<id>https://2049bbs.github.io/t/4558</id>
+		<link type="text/html" href="https://2049bbs.github.io/t/4558" />
+		<link rel="alternate" type="text/html" href="https://cdn.statically.io/gh/2049bbs/2049bbs.github.io/gh-pages/t/4558.html?env=dev" />
+		<published>2020-04-23T14:30:00+08:00</published>
+		<updated>2020-04-28T10:15:00+08:00</updated>
+		<content type="text/html">
+		    
+
+		</content>
+		<category term="2049" />
+    </entry>
+    
+	<entry>
+		<title>轉發此帖子以測試該站點是否已被接管。習近平有重大殺人嫌疑！</title>
+		<id>https://2049bbs.github.io/t/4659</id>
+		<link type="text/html" href="https://2049bbs.github.io/t/4659" />
+		<link rel="alternate" type="text/html" href="https://cdn.statically.io/gh/2049bbs/2049bbs.github.io/gh-pages/t/4659.html?env=dev" />
+		<published>2020-04-27T15:45:00+08:00</published>
+		<updated>2020-04-27T20:00:00+08:00</updated>
+		<content type="text/html">
+		    &lt;p&gt;如果該網站由當地警察局接管，警察可能不敢保留有關習近平的內容。 轉發此帖子以測試該站點是否已被接管。&lt;/p&gt;
+
+&lt;p&gt;在查閱習近平的檔案時我們發現，習近平有一同父異母的哥哥習正寧（原名習富平），關於習正寧的情況卻語焉不詳，能查到的資料是，中國科技大學自動控制專業畢業，在陝西戶縣山溝某國防研究所工作過13年，後進入陝西省委組織部任副部長工作，後調海南省任政法書記兼司法廳長（有說其死時的職...
+		</content>
+		<category term="2049" />
+    </entry>
+    
+	<entry>
+		<title>[请大家顶起转发本帖来证明论坛是否被警察接管] 習近平有重大殺人嫌疑！</title>
+		<id>https://2049bbs.github.io/t/4658</id>
+		<link type="text/html" href="https://2049bbs.github.io/t/4658" />
+		<link rel="alternate" type="text/html" href="https://cdn.statically.io/gh/2049bbs/2049bbs.github.io/gh-pages/t/4658.html?env=dev" />
+		<published>2020-04-27T15:45:00+08:00</published>
+		<updated>2020-04-27T20:00:00+08:00</updated>
+		<content type="text/html">
+		    &lt;p&gt;[请大家使用TOR注册新号顶起转发本帖来证明论坛是否被警察接管] 習近平有重大殺人嫌疑！ 在查閱習近平的檔案時我們發現，習近平有一同父異母的哥哥習正寧（原名習富平），關於習正寧的情況卻語焉不詳，能查到的資料是，中國科技大學自動控制專業畢業，在陝西戶縣山溝某國防研究所工作過13年，後進入陝西省委組織部任副部長工作，後調海南省任政法書記兼司法廳長（有說其死時的職務是海南律師協會會長），19...
+		</content>
+		<category term="2049" />
+    </entry>
+    
+	<entry>
+		<title>2020新冠肺炎记忆</title>
+		<id>https://2049bbs.github.io/t/3253</id>
+		<link type="text/html" href="https://2049bbs.github.io/t/3253" />
+		<link rel="alternate" type="text/html" href="https://cdn.statically.io/gh/2049bbs/2049bbs.github.io/gh-pages/t/3253.html?env=dev" />
+		<published>2020-03-01T22:45:00+08:00</published>
+		<updated>2020-04-27T20:00:00+08:00</updated>
+		<content type="text/html">
+		    &lt;p&gt;该项目收录了2020年新型冠状病毒肺炎（WHO 命名 COVID-19，中国卫健委曾命名 Novel Coronavirus Pneumonia, NCP）相关的媒体报道、非虚构作品和亲历者个人叙述。&lt;/p&gt;
+
+&lt;p&gt;https://2019ncovmemory.github.io/nCovMemory/&lt;/p&gt;
+
+&lt;p&gt;现在看起来蛮丰富了。&lt;/p&gt;
+
+		</content>
+		<category term="2049" />
+    </entry>
+    
+	<entry>
+		<title>github.com/Terminus2049/Not-exist-in-douban何去何从?</title>
+		<id>https://2049bbs.github.io/t/4653</id>
+		<link type="text/html" href="https://2049bbs.github.io/t/4653" />
+		<link rel="alternate" type="text/html" href="https://cdn.statically.io/gh/2049bbs/2049bbs.github.io/gh-pages/t/4653.html?env=dev" />
+		<published>2020-04-27T13:30:00+08:00</published>
+		<updated>2020-04-27T14:45:00+08:00</updated>
+		<content type="text/html">
+		    
+
+		</content>
+		<category term="2049" />
+    </entry>
+    
+	<entry>
+		<title>本站下线后去哪聚?</title>
+		<id>https://2049bbs.github.io/t/4588</id>
+		<link type="text/html" href="https://2049bbs.github.io/t/4588" />
+		<link rel="alternate" type="text/html" href="https://cdn.statically.io/gh/2049bbs/2049bbs.github.io/gh-pages/t/4588.html?env=dev" />
+		<published>2020-04-25T12:45:00+08:00</published>
+		<updated>2020-04-26T09:30:00+08:00</updated>
+		<content type="text/html">
+		    
+
+		</content>
+		<category term="2049" />
+    </entry>
+    
+	<entry>
+		<title>小二，你好吗？</title>
+		<id>https://2049bbs.github.io/t/4594</id>
+		<link type="text/html" href="https://2049bbs.github.io/t/4594" />
+		<link rel="alternate" type="text/html" href="https://cdn.statically.io/gh/2049bbs/2049bbs.github.io/gh-pages/t/4594.html?env=dev" />
+		<published>2020-04-25T20:30:00+08:00</published>
+		<updated>2020-04-25T20:30:00+08:00</updated>
+		<content type="text/html">
+		    &lt;p&gt;小二, 见信好。&lt;/p&gt;
+
+&lt;p&gt;这是你不在的第七天。中国古代叫七曜，由半圆月至满月，由圆月至半圆月，时间分别是7天；由半圆月至月消失，由月消失至半圆月，也分别是7天。&lt;/p&gt;
+
+&lt;p&gt;西方的君士坦丁大帝从巴比伦人那里借来了这个时间周期概念，于西元321年3月7日确立了“星期”。&lt;/p&gt;
+
+&lt;p&gt;你已经消失了七天。&lt;/p&gt;
+
+&lt;p&gt;如果你还在，请给我（以及其他所有心心念念不知你哪里去的...
+		</content>
+		<category term="2049" />
+    </entry>
+    
+	<entry>
+		<title>誰能解釋解釋一下論壇發生了什麼?是不是被控制了，會不會記錄 IP</title>
+		<id>https://2049bbs.github.io/t/4544</id>
+		<link type="text/html" href="https://2049bbs.github.io/t/4544" />
+		<link rel="alternate" type="text/html" href="https://cdn.statically.io/gh/2049bbs/2049bbs.github.io/gh-pages/t/4544.html?env=dev" />
+		<published>2020-04-23T13:45:00+08:00</published>
+		<updated>2020-04-23T13:45:00+08:00</updated>
+		<content type="text/html">
+		    
+
+		</content>
+		<category term="2049" />
+    </entry>
+    
+	<entry>
+		<title>建议全站发帖启用【定时发布】功能</title>
+		<id>https://2049bbs.github.io/t/4494</id>
+		<link type="text/html" href="https://2049bbs.github.io/t/4494" />
+		<link rel="alternate" type="text/html" href="https://cdn.statically.io/gh/2049bbs/2049bbs.github.io/gh-pages/t/4494.html?env=dev" />
+		<published>2020-04-21T20:45:00+08:00</published>
+		<updated>2020-04-21T22:30:00+08:00</updated>
+		<content type="text/html">
+		    &lt;p&gt;作为编程随想的老读者之一，俺对于【上线时间】这一信息还是比较敏感滴。 隔壁站的【延时发布】，就算是比较简陋的【定时发布】功能。俺希望，本站若推出【定时发布】功能，可以做得稍微精确一些。&lt;/p&gt;
+
+		</content>
+		<category term="2049" />
+    </entry>
+    
+	<entry>
+		<title>新人报道——兼给2049提个建议</title>
+		<id>https://2049bbs.github.io/t/4461</id>
+		<link type="text/html" href="https://2049bbs.github.io/t/4461" />
+		<link rel="alternate" type="text/html" href="https://cdn.statically.io/gh/2049bbs/2049bbs.github.io/gh-pages/t/4461.html?env=dev" />
+		<published>2020-04-20T14:45:00+08:00</published>
+		<updated>2020-04-20T14:45:00+08:00</updated>
+		<content type="text/html">
+		    &lt;p&gt;大家好，俺初来乍到，之前就听说过2049的大名，也曾经来参观过，今天第一次注册～&lt;/p&gt;
+
+&lt;h4 id=&quot;关于俺&quot;&gt;&lt;a href=&quot;#%E5%85%B3%E4%BA%8E%E4%BF%BA&quot;&gt;&lt;/a&gt;关于俺&lt;/h4&gt;
+
+&lt;p&gt;俺的中文网名叫“畅言慎行”，洋文叫CCaution 【畅言慎行】这个网名，是由成语【谨言慎行】改了一个字而得，因为俺采取了一些保护身份的措施，又来到一个没有审...
+		</content>
+		<category term="2049" />
+    </entry>
+    
+	<entry>
+		<title>新人报道贴</title>
+		<id>https://2049bbs.github.io/t/3484</id>
+		<link type="text/html" href="https://2049bbs.github.io/t/3484" />
+		<link rel="alternate" type="text/html" href="https://cdn.statically.io/gh/2049bbs/2049bbs.github.io/gh-pages/t/3484.html?env=dev" />
+		<published>2020-03-15T13:15:00+08:00</published>
+		<updated>2020-04-18T14:30:00+08:00</updated>
+		<content type="text/html">
+		    &lt;p&gt;我是从品葱逃过来的管理员，因为对品葱不满逃过来了，现在不想在那里发言了，只不过偶尔过去瞧瞧有什么有价值的消息，然而那边90%都是无聊的发泄贴，天天坐等这土共什么时候灭亡。这里的氛围比品葱似乎要好一些，然而帖子实在是太少了。&lt;/p&gt;
+
+		</content>
+		<category term="2049" />
+    </entry>
+    
+	<entry>
+		<title>薛兆丰：不用打比喻，你就事论事说就行了</title>
+		<id>https://2049bbs.github.io/t/4323</id>
+		<link type="text/html" href="https://2049bbs.github.io/t/4323" />
+		<link rel="alternate" type="text/html" href="https://cdn.statically.io/gh/2049bbs/2049bbs.github.io/gh-pages/t/4323.html?env=dev" />
+		<published>2020-04-14T22:00:00+08:00</published>
+		<updated>2020-04-17T11:15:00+08:00</updated>
+		<content type="text/html">
+		    &lt;blockquote&gt;
+  &lt;p&gt;我那时不自觉地以为，突发奇想，生造概念，滥用比喻，滔滔不绝，就是学问，就是文化。这种乱说一通的文化，以黑格尔的著作为登峰造极。今天，我还能在《读书》里看到我当年的影子。&lt;br /&gt;
+而尹忠东却天生是个没有“文化”的人。他有时质问，更多是充耳不闻。他给我的建议是：不用打比喻，你就事论事说就行了。&lt;br /&gt;
+今天，我经常举例子，但几乎不再打比喻了。他的这个忠...
+		</content>
+		<category term="2049" />
+    </entry>
+    
+	<entry>
+		<title>中国的小资产阶级问题</title>
+		<id>https://2049bbs.github.io/t/4353</id>
+		<link type="text/html" href="https://2049bbs.github.io/t/4353" />
+		<link rel="alternate" type="text/html" href="https://cdn.statically.io/gh/2049bbs/2049bbs.github.io/gh-pages/t/4353.html?env=dev" />
+		<published>2020-04-15T22:15:00+08:00</published>
+		<updated>2020-04-15T22:15:00+08:00</updated>
+		<content type="text/html">
+		    &lt;p&gt;https://archive.vn/R1qtX&lt;/p&gt;
+
+		</content>
+		<category term="2049" />
+    </entry>
+    
+	<entry>
+		<title>【豆瓣日常吐槽】《国际著名历史学家茅海建加盟澳门大学》被删除了</title>
+		<id>https://2049bbs.github.io/t/4310</id>
+		<link type="text/html" href="https://2049bbs.github.io/t/4310" />
+		<link rel="alternate" type="text/html" href="https://cdn.statically.io/gh/2049bbs/2049bbs.github.io/gh-pages/t/4310.html?env=dev" />
+		<published>2020-04-14T13:45:00+08:00</published>
+		<updated>2020-04-14T13:45:00+08:00</updated>
+		<content type="text/html">
+		    &lt;p&gt;&lt;a href=&quot;https://www.douban.com/people/2063193/status/2914571446/&quot;&gt;https://www.douban.com/people/2063193/status/2914571446/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://img9.doubanio.com/view/status/l/public/6...
+		</content>
+		<category term="2049" />
+    </entry>
+    
+	<entry>
+		<title>发个帖子记录自己看的动画吧</title>
+		<id>https://2049bbs.github.io/t/3802</id>
+		<link type="text/html" href="https://2049bbs.github.io/t/3802" />
+		<link rel="alternate" type="text/html" href="https://cdn.statically.io/gh/2049bbs/2049bbs.github.io/gh-pages/t/3802.html?env=dev" />
+		<published>2020-03-29T01:30:00+08:00</published>
+		<updated>2020-04-07T00:00:00+08:00</updated>
+		<content type="text/html">
+		    &lt;p&gt;如题，豆瓣不想用了。&lt;/p&gt;
+
+&lt;p&gt;宝石之国&lt;/p&gt;
+
+&lt;p&gt;动画刚出来时被朋友带着追的，感觉挺好看，音乐也好听。&lt;/p&gt;
+
+&lt;p&gt;后面为了知道进展去追了漫画，感觉真是……整个人都不好了。&lt;/p&gt;
+
+&lt;p&gt;读者考据的啥佛教思想我是没看出来，就看出来主角太惨了……&lt;/p&gt;
+
+&lt;p&gt;这个故事告诉我们，在一个大家都不想做事的社会里，如果你跳出来做事，就会里外不是人，全世界都烦你，还会有人成...
+		</content>
+		<category term="2049" />
+    </entry>
+    
+	<entry>
+		<title>中文互联网中“讨论”的消亡</title>
+		<id>https://2049bbs.github.io/t/3840</id>
+		<link type="text/html" href="https://2049bbs.github.io/t/3840" />
+		<link rel="alternate" type="text/html" href="https://cdn.statically.io/gh/2049bbs/2049bbs.github.io/gh-pages/t/3840.html?env=dev" />
+		<published>2020-03-29T23:00:00+08:00</published>
+		<updated>2020-04-03T21:30:00+08:00</updated>
+		<content type="text/html">
+		    &lt;p&gt;https://mp.weixin.qq.com/s/a-32UpINmb_vSj17epysiA&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;最近一段特殊时期，很多人观察到这样的现象：一些文章在微信公众号上能畅通无阻地发表，发表之后也能基本完好地保留在互联网上，反而是在更小众也更有自由主义倾向的豆瓣上发表时，迅速遭到审查和删除。这种有趣的对照促使我反思中文社交媒体的结构搭建。&lt;/p...
+		</content>
+		<category term="2049" />
+    </entry>
+    
+
+</feed>

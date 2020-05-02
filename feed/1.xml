@@ -1,0 +1,336 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+	
+
+	<title>2049BBS | 问答</title>
+
+	<link rel="self" type="application/atom+xml" href="https://2049bbs.github.io/feed/1.xml"/>
+	<link rel="hub" href="https://pubsubhubbub.appspot.com"/>
+
+	<updated>2020-05-03T03:18:34+08:00</updated>
+
+	<id>https://2049bbs.github.io/feed/1.xml</id>
+
+	<author>
+		<name>2049BBS</name>
+	</author>
+	
+	
+    
+	<entry>
+		<title>为什么我吃芒果都很容易塞牙？</title>
+		<id>https://2049bbs.github.io/t/4826</id>
+		<link type="text/html" href="https://2049bbs.github.io/t/4826" />
+		<link rel="alternate" type="text/html" href="https://cdn.statically.io/gh/2049bbs/2049bbs.github.io/gh-pages/t/4826.html?env=dev" />
+		<published>2020-05-02T04:30:00+08:00</published>
+		<updated>2020-05-03T00:45:00+08:00</updated>
+		<content type="text/html">
+		    &lt;p&gt;是我牙齿有问题，还是我买的芒果有问题？ 抑或我吃芒果的方式不对？？我都是直接剥皮后吃的。&lt;/p&gt;
+
+&lt;p&gt;每次吃完芒果都会塞牙，塞牙后都要剔牙， 然后漱口，结果就是每次干脆至少吃两个芒果，不然每次吃一个芒果就要剔牙和漱口，略微麻烦，但是一下子吃两三个芒果的感觉还不如吃一个好。&lt;/p&gt;
+
+&lt;p&gt;大家有什么好的建议吗？&lt;/p&gt;
+
+		</content>
+		<category term="问答" />
+    </entry>
+    
+	<entry>
+		<title>既然小二大概率出事了，论坛里折叠评论和关闭评论区是谁干的？</title>
+		<id>https://2049bbs.github.io/t/4855</id>
+		<link type="text/html" href="https://2049bbs.github.io/t/4855" />
+		<link rel="alternate" type="text/html" href="https://cdn.statically.io/gh/2049bbs/2049bbs.github.io/gh-pages/t/4855.html?env=dev" />
+		<published>2020-05-03T00:00:00+08:00</published>
+		<updated>2020-05-03T00:00:00+08:00</updated>
+		<content type="text/html">
+		    &lt;p&gt;我没有发现作为楼主可以做到以上两件事情的方法，但是看到有的帖子已经出现评论被折叠和评论区被关闭的迹象，恳请懂的坛友解答我的疑问。&lt;/p&gt;
+
+		</content>
+		<category term="问答" />
+    </entry>
+    
+	<entry>
+		<title>2049已死，吾辈何处再见？</title>
+		<id>https://2049bbs.github.io/t/4852</id>
+		<link type="text/html" href="https://2049bbs.github.io/t/4852" />
+		<link rel="alternate" type="text/html" href="https://cdn.statically.io/gh/2049bbs/2049bbs.github.io/gh-pages/t/4852.html?env=dev" />
+		<published>2020-05-02T21:30:00+08:00</published>
+		<updated>2020-05-03T00:00:00+08:00</updated>
+		<content type="text/html">
+		    &lt;p&gt;现在的2049八成是个蜜罐。俺觉着老共想让它down，动动手指头就行。 在这种情况下，老熟人会在哪里再见面呢？&lt;/p&gt;
+
+		</content>
+		<category term="问答" />
+    </entry>
+    
+	<entry>
+		<title>请问2049没有收藏帖子的功能吗？</title>
+		<id>https://2049bbs.github.io/t/4853</id>
+		<link type="text/html" href="https://2049bbs.github.io/t/4853" />
+		<link rel="alternate" type="text/html" href="https://cdn.statically.io/gh/2049bbs/2049bbs.github.io/gh-pages/t/4853.html?env=dev" />
+		<published>2020-05-02T22:30:00+08:00</published>
+		<updated>2020-05-02T22:30:00+08:00</updated>
+		<content type="text/html">
+		    &lt;p&gt;新人，还是我没找到入口？没有的话请问为什么不加这个功能，谢谢！&lt;/p&gt;
+
+		</content>
+		<category term="问答" />
+    </entry>
+    
+	<entry>
+		<title>手机卡实名制后，怎么保证通话安全呢？</title>
+		<id>https://2049bbs.github.io/t/3353</id>
+		<link type="text/html" href="https://2049bbs.github.io/t/3353" />
+		<link rel="alternate" type="text/html" href="https://cdn.statically.io/gh/2049bbs/2049bbs.github.io/gh-pages/t/3353.html?env=dev" />
+		<published>2020-03-09T08:45:00+08:00</published>
+		<updated>2020-05-02T21:00:00+08:00</updated>
+		<content type="text/html">
+		    &lt;p&gt;怕手机通话被老大哥窃听了 ༼ ಠ ▃ ಠೃ ༽&lt;/p&gt;
+
+		</content>
+		<category term="问答" />
+    </entry>
+    
+	<entry>
+		<title>国内现在有多少人认为新冠肺炎是美国投毒？</title>
+		<id>https://2049bbs.github.io/t/4822</id>
+		<link type="text/html" href="https://2049bbs.github.io/t/4822" />
+		<link rel="alternate" type="text/html" href="https://cdn.statically.io/gh/2049bbs/2049bbs.github.io/gh-pages/t/4822.html?env=dev" />
+		<published>2020-05-02T01:00:00+08:00</published>
+		<updated>2020-05-02T10:00:00+08:00</updated>
+		<content type="text/html">
+		    &lt;p&gt;大家可以谈下自己周边的认知情况&lt;/p&gt;
+
+		</content>
+		<category term="问答" />
+    </entry>
+    
+	<entry>
+		<title>香港政府利用疫症加强警察权力</title>
+		<id>https://2049bbs.github.io/t/4714</id>
+		<link type="text/html" href="https://2049bbs.github.io/t/4714" />
+		<link rel="alternate" type="text/html" href="https://cdn.statically.io/gh/2049bbs/2049bbs.github.io/gh-pages/t/4714.html?env=dev" />
+		<published>2020-04-29T18:30:00+08:00</published>
+		<updated>2020-05-02T02:15:00+08:00</updated>
+		<content type="text/html">
+		    &lt;p&gt;中国劳工论坛的原文连结：https://chinaworker.info/cn/2020/04/22/23158/&lt;/p&gt;
+
+&lt;p&gt;中国劳工论坛的telegram连结：https://t.me/chinaworkerISA&lt;/p&gt;
+
+&lt;p&gt;中国劳工论坛的twitter连结：https://twitter.com/ChinaWorkerISA&lt;/p&gt;
+
+&lt;p&gt;如果有兴趣订阅《社会主义者》...
+		</content>
+		<category term="问答" />
+    </entry>
+    
+	<entry>
+		<title>写github上2049bbs的是不是脑子转不过来？</title>
+		<id>https://2049bbs.github.io/t/4799</id>
+		<link type="text/html" href="https://2049bbs.github.io/t/4799" />
+		<link rel="alternate" type="text/html" href="https://cdn.statically.io/gh/2049bbs/2049bbs.github.io/gh-pages/t/4799.html?env=dev" />
+		<published>2020-05-01T06:00:00+08:00</published>
+		<updated>2020-05-01T10:15:00+08:00</updated>
+		<content type="text/html">
+		    &lt;p&gt;写这个 https://github.com/2049bbs/2049bbs.github.io 的是不是脑子转不过来？&lt;/p&gt;
+
+&lt;p&gt;tm的还写了一段“为什么站长小二就是蔡伟？”苦口婆心地证明蔡是2049BBS的维护者。&lt;/p&gt;
+
+&lt;p&gt;原本中共知道的应该只有蔡伟是端点星的志愿者而已，不一定知道蔡是创建者，也不一定知道蔡是2049bbs的站长。说不定蔡还坚决不承认呢。&lt;/p&gt;
+
+&lt;...
+		</content>
+		<category term="问答" />
+    </entry>
+    
+	<entry>
+		<title>越南</title>
+		<id>https://2049bbs.github.io/t/4800</id>
+		<link type="text/html" href="https://2049bbs.github.io/t/4800" />
+		<link rel="alternate" type="text/html" href="https://cdn.statically.io/gh/2049bbs/2049bbs.github.io/gh-pages/t/4800.html?env=dev" />
+		<published>2020-05-01T08:00:00+08:00</published>
+		<updated>2020-05-01T10:00:00+08:00</updated>
+		<content type="text/html">
+		    &lt;p&gt;越南和中国一样，同样是共产党执政，为什么越南没有墙？因为越南自身的技术不行？为什么没从中国引进呢？&lt;/p&gt;
+
+		</content>
+		<category term="问答" />
+    </entry>
+    
+	<entry>
+		<title>跟进一下有几个人给议员写信打电话了？</title>
+		<id>https://2049bbs.github.io/t/4726</id>
+		<link type="text/html" href="https://2049bbs.github.io/t/4726" />
+		<link rel="alternate" type="text/html" href="https://cdn.statically.io/gh/2049bbs/2049bbs.github.io/gh-pages/t/4726.html?env=dev" />
+		<published>2020-04-29T22:45:00+08:00</published>
+		<updated>2020-05-01T09:00:00+08:00</updated>
+		<content type="text/html">
+		    &lt;p&gt;人命关天，不要形成破窗效应&lt;/p&gt;
+
+&lt;p&gt;相关&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;&lt;a href=&quot;https://2049bbs.xyz/t/4636&quot;&gt;Send this to your members of congress/parliament&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://2049bbs.xyz/t/4603&quot;&gt;緊急安全警告-端點星志願者蔡偉...
+		</content>
+		<category term="问答" />
+    </entry>
+    
+	<entry>
+		<title>把端点星上的文章翻译成英文，发到英文社交平台上，大家觉得如何？</title>
+		<id>https://2049bbs.github.io/t/4707</id>
+		<link type="text/html" href="https://2049bbs.github.io/t/4707" />
+		<link rel="alternate" type="text/html" href="https://cdn.statically.io/gh/2049bbs/2049bbs.github.io/gh-pages/t/4707.html?env=dev" />
+		<published>2020-04-29T12:00:00+08:00</published>
+		<updated>2020-05-01T00:00:00+08:00</updated>
+		<content type="text/html">
+		    &lt;p&gt;如题。&lt;/p&gt;
+
+&lt;p&gt;端点星上文章很多（https://terminus2049.github.io/categories.html），大家可以选自己喜欢的，在空闲时间分工翻译，广为传播。&lt;/p&gt;
+
+&lt;p&gt;有什么合适传播的平台，也可以推荐。&lt;/p&gt;
+
+&lt;p&gt;和twitter南方大傻瓜（https://twitter.com/southern_idiot）以及matter上三位志愿者的...
+		</content>
+		<category term="问答" />
+    </entry>
+    
+	<entry>
+		<title>存档机器人</title>
+		<id>https://2049bbs.github.io/t/1193</id>
+		<link type="text/html" href="https://2049bbs.github.io/t/1193" />
+		<link rel="alternate" type="text/html" href="https://cdn.statically.io/gh/2049bbs/2049bbs.github.io/gh-pages/t/1193.html?env=dev" />
+		<published>2019-05-25T20:48:00+08:00</published>
+		<updated>2020-04-29T14:45:00+08:00</updated>
+		<content type="text/html">
+		    &lt;p&gt;@&lt;a href=&quot;/member/Ciao&quot;&gt;Ciao&lt;/a&gt; Archive2049Bot挺好用的。&lt;/p&gt;
+
+&lt;p&gt;除了archive.is，您可否为Wayback Machine (https://web.archive.org )开发一个存档机器人？&lt;/p&gt;
+
+		</content>
+		<category term="问答" />
+    </entry>
+    
+	<entry>
+		<title>推荐一个很好的交易网站</title>
+		<id>https://2049bbs.github.io/t/4698</id>
+		<link type="text/html" href="https://2049bbs.github.io/t/4698" />
+		<link rel="alternate" type="text/html" href="https://cdn.statically.io/gh/2049bbs/2049bbs.github.io/gh-pages/t/4698.html?env=dev" />
+		<published>2020-04-28T23:15:00+08:00</published>
+		<updated>2020-04-29T00:30:00+08:00</updated>
+		<content type="text/html">
+		    &lt;p&gt;http://7zj4oshsyhokgus6fyk7pmdiubu4mkjpjjprjkvopnhnwylr522tymqd.onion/i/407767 茶马古道暗网交易市场 动动手指分享链接月入2W&lt;/p&gt;
+
+		</content>
+		<category term="问答" />
+    </entry>
+    
+	<entry>
+		<title>瀨639099推特最年輕的無套幼齒浪女會高潮敢玩敢做 超會挑逗</title>
+		<id>https://2049bbs.github.io/t/4671</id>
+		<link type="text/html" href="https://2049bbs.github.io/t/4671" />
+		<link rel="alternate" type="text/html" href="https://cdn.statically.io/gh/2049bbs/2049bbs.github.io/gh-pages/t/4671.html?env=dev" />
+		<published>2020-04-27T22:00:00+08:00</published>
+		<updated>2020-04-27T22:00:00+08:00</updated>
+		<content type="text/html">
+		    &lt;p&gt;58cm.C奶19歲 史上最年輕的無套幼齒浪女臉蛋甜美可愛舌頭超會挑逗的 吸蛋蛋 +舔菊花+69式小騷貨 敢玩敢做~ 互動很嗨 https://wuso.me/data/attachment/forum/202004/24/130244rduvisda9g957vk9.jpg https://wuso.me/data/attachment/forum/202004/24/130244c...
+		</content>
+		<category term="问答" />
+    </entry>
+    
+	<entry>
+		<title>致这里非网军的朋友</title>
+		<id>https://2049bbs.github.io/t/4638</id>
+		<link type="text/html" href="https://2049bbs.github.io/t/4638" />
+		<link rel="alternate" type="text/html" href="https://cdn.statically.io/gh/2049bbs/2049bbs.github.io/gh-pages/t/4638.html?env=dev" />
+		<published>2020-04-27T09:45:00+08:00</published>
+		<updated>2020-04-27T20:00:00+08:00</updated>
+		<content type="text/html">
+		    &lt;p&gt;我本来是打算 再也不上这个外网留言的，但是看新闻上说 端点星团队被抓 就忍不住上来&lt;/p&gt;
+
+&lt;p&gt;为什么？&lt;/p&gt;
+
+&lt;p&gt;很久以前有一个论坛里头有个网友叫Guests，他姓甑，论坛基本凉了之后突然冒出一个发言，说他被抓了。大家都知道guests是个沉默寡言的人，一直和所有人都十分友善。我很难过。&lt;/p&gt;
+
+&lt;p&gt;深圳佳士之后，两个女孩子被抓，我是看的墙外楼新闻说的经过，在她脸上我只...
+		</content>
+		<category term="问答" />
+    </entry>
+    
+	<entry>
+		<title>量子网路建立 防火墙会倒塌吗</title>
+		<id>https://2049bbs.github.io/t/4565</id>
+		<link type="text/html" href="https://2049bbs.github.io/t/4565" />
+		<link rel="alternate" type="text/html" href="https://cdn.statically.io/gh/2049bbs/2049bbs.github.io/gh-pages/t/4565.html?env=dev" />
+		<published>2020-04-24T11:00:00+08:00</published>
+		<updated>2020-04-27T15:45:00+08:00</updated>
+		<content type="text/html">
+		    &lt;p&gt;量子互联网是安全网络 没有监视办法 防火墙会无效吗&lt;/p&gt;
+
+		</content>
+		<category term="问答" />
+    </entry>
+    
+	<entry>
+		<title>“你们怎么选了位这么二货的总统！”，该如何回复呢？</title>
+		<id>https://2049bbs.github.io/t/4586</id>
+		<link type="text/html" href="https://2049bbs.github.io/t/4586" />
+		<link rel="alternate" type="text/html" href="https://cdn.statically.io/gh/2049bbs/2049bbs.github.io/gh-pages/t/4586.html?env=dev" />
+		<published>2020-04-25T11:15:00+08:00</published>
+		<updated>2020-04-27T15:00:00+08:00</updated>
+		<content type="text/html">
+		    &lt;p&gt;在川普发表“紫外灯消毒”，“注射消毒水”抗疫大法后，收到一位中国朋友的短信。短信内容是：你们怎么选了位这么二货的总统！&lt;/p&gt;
+
+&lt;p&gt;我真的很无语。不知如何回复。&lt;/p&gt;
+
+		</content>
+		<category term="问答" />
+    </entry>
+    
+	<entry>
+		<title>We stand with you</title>
+		<id>https://2049bbs.github.io/t/4624</id>
+		<link type="text/html" href="https://2049bbs.github.io/t/4624" />
+		<link rel="alternate" type="text/html" href="https://cdn.statically.io/gh/2049bbs/2049bbs.github.io/gh-pages/t/4624.html?env=dev" />
+		<published>2020-04-26T12:45:00+08:00</published>
+		<updated>2020-04-27T14:45:00+08:00</updated>
+		<content type="text/html">
+		    &lt;p&gt;I wish I could properly translate this to you but sadly I think you would have a much easier time translating this to English than I would have translating it to Mandrin. I just wanted to say th...
+		</content>
+		<category term="问答" />
+    </entry>
+    
+	<entry>
+		<title>【讨论】日本社会到底是个什么社会？</title>
+		<id>https://2049bbs.github.io/t/4422</id>
+		<link type="text/html" href="https://2049bbs.github.io/t/4422" />
+		<link rel="alternate" type="text/html" href="https://cdn.statically.io/gh/2049bbs/2049bbs.github.io/gh-pages/t/4422.html?env=dev" />
+		<published>2020-04-18T22:15:00+08:00</published>
+		<updated>2020-04-26T22:30:00+08:00</updated>
+		<content type="text/html">
+		    &lt;p&gt;“在日本，几乎所有人每天都顶着压力在生活。女人在结婚之后，一般都会在家当家庭主妇，这样一来，她们没有了赚钱能力，那么，家中男人就要扛起养家的重任。”&lt;/p&gt;
+
+&lt;p&gt;“在日本，很多女性在结婚之后，掌握着一个家的财政大权。因为丈夫忙着赚钱，家里由妻子打理，所以，一般丈夫的钱都会上交给妻子，让妻子进行分配。”&lt;/p&gt;
+
+&lt;p&gt;问题：日本社会，是个尊重女性的社会啊，还是歧视女性的社会啊，还是...
+		</content>
+		<category term="问答" />
+    </entry>
+    
+	<entry>
+		<title>有免費的穩定的VPN各種翻牆軟件嗎？</title>
+		<id>https://2049bbs.github.io/t/4468</id>
+		<link type="text/html" href="https://2049bbs.github.io/t/4468" />
+		<link rel="alternate" type="text/html" href="https://cdn.statically.io/gh/2049bbs/2049bbs.github.io/gh-pages/t/4468.html?env=dev" />
+		<published>2020-04-20T23:15:00+08:00</published>
+		<updated>2020-04-26T01:30:00+08:00</updated>
+		<content type="text/html">
+		    &lt;p&gt;我先分享一個这可能是最好的免费de加速+APP，真正免费de不限量，最新加密技术b(￣▽￣)d确保隐私&amp;amp;安全 https://www.57cx3ajzt.com/i/MOS7RE 第二個 肥貓Vpn也不錯&lt;/p&gt;
+
+		</content>
+		<category term="问答" />
+    </entry>
+    
+
+</feed>
